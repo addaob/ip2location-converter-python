@@ -12,7 +12,7 @@ This Python program uses the [ipdata Python library](https://pypi.org/project/ip
 ```pip install ipdata```
 
 ## Obtain API key
-1. Visit [the ipdata website](https://www.ipdata.co) and sign up for an account if you already do not have one.
+1. Visit [the ipdata website](https://www.ipdata.co) and sign up for an account if you do not have one already.
 
 ![IPdata Homepage](ipdata_homepage.png)
 
